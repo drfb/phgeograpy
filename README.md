@@ -7,6 +7,14 @@ Take a break from machine learning and chatbots. I created this project to explo
 
 I'm working on a web app that needs location input broken down into regions, provinces, and cities/municipalities so I created this package to make it reusable and open source. Technically it's just a list, you can use it to create dropdown inputs or model choices in Django.
 
+# Installation
+
+Installation using pip:
+
+```
+$ pip install phgeograpy
+```
+
 # Regions
 
 Regions are represented by `phgeograpy.Region` class.
